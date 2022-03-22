@@ -1,0 +1,5 @@
+Partidas Ganadas: ,0,
+Partidas Jugadas: ,0, 
+Partidas Perdidas: ,0,
+Partidas Abandonadas: ,0,
+
